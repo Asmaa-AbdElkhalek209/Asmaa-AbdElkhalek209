@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Asmaa Abdelkhalek<br><br>💻 Frontend Developer with 3+ years of experience building modern, scalable, and high-performance web applications using React.js, Next.js, Angular, and TypeScript.<br><br>🚀 Skilled in developing responsive user interfaces, reusable component architectures, and maintainable frontend solutions with a strong focus on clean code and best practices.<br><br>⚡ Passionate about creating seamless user experiences, optimizing application performance, and transforming ideas into efficient and scalable web solutions.<br><br>🌱 Currently enhancing my expertise in advanced frontend architecture, Next.js patterns, and modern web development practices.
 
 
