@@ -2,14 +2,11 @@
 👋🏻 Hi, I'm Asmaa Abdelkhalek<br><br>💻 Frontend Developer with 3+ years of experience building modern, scalable, and high-performance web applications using React.js, Next.js, Angular, and TypeScript.<br><br>🚀 Skilled in developing responsive user interfaces, reusable component architectures, and maintainable frontend solutions with a strong focus on clean code and best practices.<br><br>⚡ Passionate about creating seamless user experiences, optimizing application performance, and transforming ideas into efficient and scalable web solutions.<br><br>🌱 Currently enhancing my expertise in advanced frontend architecture, Next.js patterns, and modern web development practices.
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1PEVAaZGrv/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asmaa_abdelkhalek/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://my-portofolio-chi-hazel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmaa-abdelkhalek9/)
-
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Asmaa-AbdElkhalek209)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asmaa0abdelkhalek@gmail.com)
 
 # 💻 Tech Stack:
